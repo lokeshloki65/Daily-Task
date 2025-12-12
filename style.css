@@ -1,5 +1,5 @@
 /* ========================================
-   CSS VARIABLES & RESET
+   CSS VARIABLES & RESET 
 ======================================== */ 
 :root {
     --bg-primary: #0a0a0a;
@@ -1297,5 +1297,6 @@ body {
     scrollbar-color: var(--neon-cyan) var(--bg-secondary);
 
 }
+
 
 
