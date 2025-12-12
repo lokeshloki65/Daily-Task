@@ -8,7 +8,7 @@
     
     --neon-cyan: #00f0ff;
     --neon-purple: #b800ff;
-    --neon-pink: #ff006e;
+    --neon-pink: #ff006e; 
     --neon-blue: #0066ff;
     --neon-green: #00ff88;
     
@@ -1295,4 +1295,5 @@ body {
 * {
     scrollbar-width: thin;
     scrollbar-color: var(--neon-cyan) var(--bg-secondary);
+
 }
