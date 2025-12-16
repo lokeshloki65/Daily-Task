@@ -1,9 +1,6 @@
 
 
 
-// ========================================
-// FIREBASE CONFIGURATION & INITIALIZATION
-// ========================================
 
 import { initializeApp } from 'https://www.gstatic.com/firebasejs/9.22.0/firebase-app.js';
 import { getDatabase, ref, set, get, update, remove, onValue } from 'https://www.gstatic.com/firebasejs/9.22.0/firebase-database.js';
@@ -996,5 +993,6 @@ window.closeAnalyticsModal = closeAnalyticsModal;
 window.closeSettingsModal = closeSettingsModal;
 window.closeConfirmModal = closeConfirmModal;
 window.confirmClearCompleted = confirmClearCompleted;
+
 
 console.log('🔥 Habit Tracker Initialized!');
