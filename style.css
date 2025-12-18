@@ -9,7 +9,7 @@
     --neon-cyan: #00f0ff; 
     --neon-purple: #b800ff;  
     --neon-pink: #ff006e;  
-    --neon-blue: #0066ff;
+    --neon-blue: #0066ff; 
     --neon-green: #00ff88;
     
     --glass-bg: rgba(255, 255, 255, 0.05);
@@ -1297,6 +1297,7 @@ body {
     scrollbar-color: var(--neon-cyan) var(--bg-secondary);
 
 }
+
 
 
 
