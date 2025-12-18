@@ -7,7 +7,7 @@
     --bg-card: rgba(20, 20, 30, 0.6);    
      
     --neon-cyan: #00f0ff; 
-    --neon-purple: #b800ff; 
+    --neon-purple: #b800ff;  
     --neon-pink: #ff006e; 
     --neon-blue: #0066ff;
     --neon-green: #00ff88;
@@ -1297,6 +1297,7 @@ body {
     scrollbar-color: var(--neon-cyan) var(--bg-secondary);
 
 }
+
 
 
 
