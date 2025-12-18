@@ -4,7 +4,7 @@
 :root {
     --bg-primary: #0a0a0a;  
     --bg-secondary: #111111;
-    --bg-card: rgba(20, 20, 30, 0.6);   
+    --bg-card: rgba(20, 20, 30, 0.6);    
      
     --neon-cyan: #00f0ff;
     --neon-purple: #b800ff; 
@@ -1297,6 +1297,7 @@ body {
     scrollbar-color: var(--neon-cyan) var(--bg-secondary);
 
 }
+
 
 
 
